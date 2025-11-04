@@ -13,6 +13,7 @@ This is a template
     - [ROS2 Humble + rosdep](#ros2-humble--rosdep)
   - [Running](#running)
 - [Packages](#packages)
+- [Maintainers](#maintainers)
 
 ## Software Prerequisites
 
@@ -69,3 +70,9 @@ ros2 launch example_pkg example.launch.py
 Include a list of the packages inside the repository here.
 
 - [example\_pkg](./example_pkg) - Does example things.
+
+## Maintainers
+
+- Riley McLain <rjm0037@uah.edu>
+- David Sharpe <ds0196@uah.edu>
+
