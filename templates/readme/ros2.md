@@ -1,10 +1,18 @@
 # ROS2 Repository Name
 
-Brief description of what the repository is for.
+> [!NOTE]
+> Notes about what to put where go in these note sections. Everything else is
+> an example to help you get started.
 
-This is a template
+> [!NOTE]
+> Brief description of what the repository is for.
+
+This is an example repository that does example things.
 
 ## Table of Contents
+
+> [!NOTE]
+> Don't forget to update your table of contents!
 
 - [Software Prerequisites](#software-prerequisites)
 - [Usage](#usage)
@@ -17,9 +25,11 @@ This is a template
 
 ## Software Prerequisites
 
-List of things you need set up and working with links to the things. Do not list
-dependencies, instead list things that need to be set up (e.g. Nix, ROS2 Humble,
-Visual Studio Code, PlatformIO, etc). Include links to setup instructions. Here's an example:
+> [!NOTE]
+> List of things you need set up and working with links to the things. Do not
+> list dependencies, instead list things that need to be set up (e.g. Nix, ROS
+> Humble, Visual Studio Code, PlatformIO, etc). Include links to setup
+> instructions.
 
 You need either [ROS2 Humble](https://docs.ros.org/en/humble/Installation.html)
 with [rosdep](https://docs.ros.org/en/humble/Tutorials/Intermediate/Rosdep.html#rosdep-installation)
@@ -28,7 +38,8 @@ using Nix.
 
 ## Usage
 
-Here are some example usage instructions for a ROS2 repo.
+> [!NOTE]
+> Here are some example usage instructions for a ROS2 repo.
 
 ### Setup
 
@@ -67,11 +78,16 @@ ros2 launch example_pkg example.launch.py
 
 ## Packages
 
-Include a list of the packages inside the repository here.
+> [!NOTE]
+> Include a list of the packages inside the repository here.
 
 - [example\_pkg](./example_pkg) - Does example things.
 
 ## Maintainers
+
+> [!NOTE]
+> Put maintainers in a table. Always sort maintainers names alphabetically.
+> Optionally, include the maintainer's email and their Discord username.
 
 | Name | Email | Discord |
 | ---- | ----- | ------- |
