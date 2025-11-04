@@ -73,6 +73,8 @@ Include a list of the packages inside the repository here.
 
 ## Maintainers
 
-- Riley McLain <rjm0037@uah.edu>
-- David Sharpe <ds0196@uah.edu>
+| Name | Email | Discord |
+| ---- | ----- | ------- |
+| David Sharpe | <ds0196@uah.edu> | `@ddavdd` |
+| Riley McLain | <rjm0037@uah.edu> | `@ryleu` |
 
