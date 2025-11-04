@@ -1,8 +1,8 @@
 # ROS2 Repository Name
 
 > [!NOTE]
-> Notes about what to put where go in these note sections. Everything else is
-> an example to help you get started.
+> Notes about how to use this template go in these note sections. Everything
+> else is an example to help you get started.
 
 > [!NOTE]
 > Brief description of what the repository is for.
