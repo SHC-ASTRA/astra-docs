@@ -10,7 +10,7 @@ This is a template
 - [Usage](#usage)
   - [Setup](#setup)
     - [Nix](#nix)
-    - [ROS2 Humble + rosdep](#ros2-humble-rosdep)
+    - [ROS2 Humble + rosdep](#ros2-humble--rosdep)
   - [Running](#running)
 - [Packages](#packages)
 
